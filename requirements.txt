@@ -1,0 +1,5 @@
+Pillow>=12.3,<14
+av>=19,<20
+openpyxl>=3.1.5,<4
+pypdf>=6,<7
+python-docx>=1.2,<2
